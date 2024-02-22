@@ -1,6 +1,8 @@
 # Demo wth PHP + Laravel
 * Docker + sail
 * https://laravel.com/docs/10.x#docker-installation-using-sail
+* Demo with CURL
+
 
 ## Create project
 * https://laravel.com/docs/10.x#sail-on-macos
