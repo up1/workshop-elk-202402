@@ -1,5 +1,6 @@
 # Install Elasticsearch and Kibana
 * Docker
+    * https://www.elastic.co/guide/en/elasticsearch/reference/current/run-elasticsearch-locally.html
 
 ## 1. Single node
 ```
