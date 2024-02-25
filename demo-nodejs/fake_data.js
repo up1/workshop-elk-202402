@@ -27,7 +27,7 @@ const createFakeData = () => ({
 
 const insertData = async () => {
     const body = [];
-    for (let i = 0; i < 100000; i++) {
+    for (let i = 0; i < 200000; i++) {
       const fakeData = createFakeData();
       body.push({ index: { _index: 'sale_order' } });
       body.push(fakeData);
